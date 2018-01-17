@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/reverse-integer/description/
 
-class Solution {
+class ReverseInteger {
     public int reverse(int x) {
         try {
             String y = Integer.toString(x);
